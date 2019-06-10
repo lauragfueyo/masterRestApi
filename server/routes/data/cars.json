@@ -52,5 +52,17 @@
         "name": "Cololass",
         "brand": "GIAn",
         "year_release": "2000"
+    },
+    {
+        "car_id": 3,
+        "name": "Colola",
+        "brand": "GIA",
+        "year_release": "2015"
+    },
+    {
+        "car_id": 3,
+        "name": "Green Roaster 44",
+        "brand": "HMI",
+        "year_release": "1940"
     }
 ]
